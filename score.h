@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 #define MAX 30
-
+// this comment is added by me
 void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
